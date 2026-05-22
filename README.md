@@ -43,14 +43,12 @@ LinkedIn: https://linkedin.com/in/poovarasan-a-b139a5219
 Clone the repository:
 
 ```bash
-git clone https://github.com/hajjinni/Hajinni_portfolio.git
-```
+git clone https://github.com/Poovarasan-23/poovarasan_portfolio.git```
 
 Navigate to project folder:
 
 ```bash
-cd Hajinni_portfolio
-```
+cd poovarasan_portfolio```
 
 Install dependencies:
 
