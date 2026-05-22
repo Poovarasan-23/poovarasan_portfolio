@@ -36,3 +36,31 @@ Aug 2018 – May 2022
 Email: apoovarasan.vnb@gmail.com  
 GitHub: https://github.com/Poovarasan-23  
 LinkedIn: https://linkedin.com/in/poovarasan-a-b139a5219  
+
+
+#  Installation & Setup
+
+Clone the repository:
+
+```bash
+git clone https://github.com/hajjinni/Hajinni_portfolio.git
+```
+
+Navigate to project folder:
+
+```bash
+cd Hajinni_portfolio
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
+
+```bash
+npm start
+```
+
