@@ -1,8 +1,10 @@
 import { render, screen } from '@testing-library/react';
 import App from './App';
 
-test('renders learn react link', () => {
+test('renders portfolio My content', () => {
   render(<App />);
-  const linkElement = screen.getByText(/learn react/i);
-  expect(linkElement).toBeInTheDocument();
+  expect(
+    screen.getByRole('heading', { name: /Automation Engineer/i })
+  ).toBeInTheDocument();
+  expect(screen.getAllByRole('link', { name: /download cv/i }).length).toBeGreaterThan(0);
 });
